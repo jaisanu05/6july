@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is third file Bangalore third branch
+=======
+This is third file in Bangalore
+>>>>>>> first

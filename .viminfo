@@ -12,9 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1720242484,,"wq"
 :q
 |2,0,1720242207,,"q"
+=======
+|2,0,1720241657,,"wq"
+>>>>>>> first
 
 # Search String History (newest to oldest):
 
@@ -28,6 +32,7 @@
 
 # File marks:
 '0  1  12  ~/India/Karnataka/Bangalore/c.txt
+<<<<<<< HEAD
 |4,48,1,12,1720242484,"~/India/Karnataka/Bangalore/c.txt"
 '1  1  13  ~/India/Karnataka/Bangalore/b.txt
 |4,49,1,13,1720242470,"~/India/Karnataka/Bangalore/b.txt"
@@ -249,24 +254,256 @@
 |4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
 -'  1  12  ~/India/Telangana/Suryapet/c.txt
 |4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+=======
+|4,48,1,12,1720241657,"~/India/Karnataka/Bangalore/c.txt"
+'1  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,49,1,13,1720241643,"~/India/Karnataka/Bangalore/b.txt"
+'2  1  30  ~/India/Karnataka/Bangalore/a.txt
+|4,50,1,30,1720241629,"~/India/Karnataka/Bangalore/a.txt"
+'3  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,51,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+'4  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,52,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+'5  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,53,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+'6  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,54,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+'7  1  13  ~/India/Telangana/Hyderabad/b.txt
+|4,55,1,13,1720241484,"~/India/Telangana/Hyderabad/b.txt"
+'8  1  31  ~/India/Telangana/Hyderabad/a.txt
+|4,56,1,31,1720241470,"~/India/Telangana/Hyderabad/a.txt"
+'9  2  0  ~/script.sh
+|4,57,2,0,1720241074,"~/script.sh"
+
+# Jumplist (newest first):
+-'  1  12  ~/India/Karnataka/Bangalore/c.txt
+|4,39,1,12,1720241657,"~/India/Karnataka/Bangalore/c.txt"
+-'  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,39,1,13,1720241643,"~/India/Karnataka/Bangalore/b.txt"
+-'  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,39,1,13,1720241643,"~/India/Karnataka/Bangalore/b.txt"
+-'  1  30  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,30,1720241629,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  30  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,30,1720241629,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  30  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,30,1720241629,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  30  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,30,1720241629,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  12  ~/India/Andhrapradesh/Vijayawada/c.txt
+|4,39,1,12,1720241581,"~/India/Andhrapradesh/Vijayawada/c.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  13  ~/India/Andhrapradesh/Vijayawada/b.txt
+|4,39,1,13,1720241567,"~/India/Andhrapradesh/Vijayawada/b.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  31  ~/India/Andhrapradesh/Vijayawada/a.txt
+|4,39,1,31,1720241549,"~/India/Andhrapradesh/Vijayawada/a.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+-'  1  12  ~/India/Telangana/Hyderabad/c.txt
+|4,39,1,12,1720241498,"~/India/Telangana/Hyderabad/c.txt"
+>>>>>>> first
 
 # History of marks within files (newest to oldest):
 
 > ~/India/Karnataka/Bangalore/c.txt
+<<<<<<< HEAD
 	*	1720242483	0
+=======
+	*	1720241656	0
+>>>>>>> first
 	"	1	12
 	^	1	13
 	.	1	12
 	+	1	12
 
 > ~/India/Karnataka/Bangalore/b.txt
+<<<<<<< HEAD
 	*	1720242469	0
+=======
+	*	1720241642	0
+>>>>>>> first
 	"	1	13
 	^	1	14
 	.	1	13
 	+	1	13
 
 > ~/India/Karnataka/Bangalore/a.txt
+<<<<<<< HEAD
 	*	1720242451	0
 	"	1	40
 	^	1	41
@@ -275,11 +512,22 @@
 
 > ~/India/Andhrapradesh/WestGodavari/c.txt
 	*	1720242397	0
+=======
+	*	1720241623	0
+	"	1	30
+	^	1	31
+	.	1	30
+	+	1	30
+
+> ~/India/Andhrapradesh/Vijayawada/c.txt
+	*	1720241580	0
+>>>>>>> first
 	"	1	12
 	^	1	13
 	.	1	12
 	+	1	12
 
+<<<<<<< HEAD
 > ~/India/Andhrapradesh/WestGodavari/b.txt
 	*	1720242385	0
 	"	1	13
@@ -296,24 +544,57 @@
 
 > ~/India/Telangana/Suryapet/c.txt
 	*	1720242316	0
+=======
+> ~/India/Andhrapradesh/Vijayawada/b.txt
+	*	1720241565	0
+	"	1	13
+	^	1	14
+	.	2	0
+	+	1	14
+	+	2	0
+
+> ~/India/Andhrapradesh/Vijayawada/a.txt
+	*	1720241540	0
+	"	1	31
+	^	1	32
+	.	1	31
+	+	1	31
+
+> ~/India/Telangana/Hyderabad/c.txt
+	*	1720241497	0
+>>>>>>> first
 	"	1	12
 	^	1	13
 	.	1	12
 	+	1	12
 
+<<<<<<< HEAD
 > ~/India/Telangana/Suryapet/b.txt
 	*	1720242303	0
+=======
+> ~/India/Telangana/Hyderabad/b.txt
+	*	1720241483	0
+>>>>>>> first
 	"	1	13
 	^	1	14
 	.	1	13
 	+	1	13
 
+<<<<<<< HEAD
 > ~/India/Telangana/Suryapet/a.txt
 	*	1720242282	0
 	"	1	29
 	^	1	30
 	.	1	29
 	+	1	29
+=======
+> ~/India/Telangana/Hyderabad/a.txt
+	*	1720241469	0
+	"	1	31
+	^	1	32
+	.	1	32
+	+	1	32
+>>>>>>> first
 
 > ~/script.sh
 	*	1720241073	0
