@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1720241074,,"wq"
+|2,0,1720242484,,"wq"
+:q
+|2,0,1720242207,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,293 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/script.sh
-|4,48,2,0,1720241074,"~/script.sh"
+'0  1  12  ~/India/Karnataka/Bangalore/c.txt
+|4,48,1,12,1720242484,"~/India/Karnataka/Bangalore/c.txt"
+'1  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,49,1,13,1720242470,"~/India/Karnataka/Bangalore/b.txt"
+'2  1  40  ~/India/Karnataka/Bangalore/a.txt
+|4,50,1,40,1720242456,"~/India/Karnataka/Bangalore/a.txt"
+'3  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,51,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+'4  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,52,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+'5  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,53,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+'6  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,54,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+'7  1  13  ~/India/Telangana/Suryapet/b.txt
+|4,55,1,13,1720242304,"~/India/Telangana/Suryapet/b.txt"
+'8  1  29  ~/India/Telangana/Suryapet/a.txt
+|4,56,1,29,1720242288,"~/India/Telangana/Suryapet/a.txt"
+'9  1  0  ~/India/Karnataka/Bangalore/a.txt
+|4,57,1,0,1720242207,"~/India/Karnataka/Bangalore/a.txt"
 
 # Jumplist (newest first):
--'  2  0  ~/script.sh
-|4,39,2,0,1720241074,"~/script.sh"
--'  1  0  ~/script.sh
-|4,39,1,0,1720241049,"~/script.sh"
+-'  1  12  ~/India/Karnataka/Bangalore/c.txt
+|4,39,1,12,1720242484,"~/India/Karnataka/Bangalore/c.txt"
+-'  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,39,1,13,1720242470,"~/India/Karnataka/Bangalore/b.txt"
+-'  1  13  ~/India/Karnataka/Bangalore/b.txt
+|4,39,1,13,1720242470,"~/India/Karnataka/Bangalore/b.txt"
+-'  1  40  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,40,1720242456,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  40  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,40,1720242456,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  40  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,40,1720242456,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  40  ~/India/Karnataka/Bangalore/a.txt
+|4,39,1,40,1720242456,"~/India/Karnataka/Bangalore/a.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  12  ~/India/Andhrapradesh/WestGodavari/c.txt
+|4,39,1,12,1720242397,"~/India/Andhrapradesh/WestGodavari/c.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  13  ~/India/Andhrapradesh/WestGodavari/b.txt
+|4,39,1,13,1720242386,"~/India/Andhrapradesh/WestGodavari/b.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  33  ~/India/Andhrapradesh/WestGodavari/a.txt
+|4,39,1,33,1720242373,"~/India/Andhrapradesh/WestGodavari/a.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
+-'  1  12  ~/India/Telangana/Suryapet/c.txt
+|4,39,1,12,1720242317,"~/India/Telangana/Suryapet/c.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/India/Karnataka/Bangalore/c.txt
+	*	1720242483	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/India/Karnataka/Bangalore/b.txt
+	*	1720242469	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/India/Karnataka/Bangalore/a.txt
+	*	1720242451	0
+	"	1	40
+	^	1	41
+	.	1	40
+	+	1	40
+
+> ~/India/Andhrapradesh/WestGodavari/c.txt
+	*	1720242397	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/India/Andhrapradesh/WestGodavari/b.txt
+	*	1720242385	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/India/Andhrapradesh/WestGodavari/a.txt
+	*	1720242367	0
+	"	1	33
+	^	1	34
+	.	1	33
+	+	1	33
+
+> ~/India/Telangana/Suryapet/c.txt
+	*	1720242316	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/India/Telangana/Suryapet/b.txt
+	*	1720242303	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> ~/India/Telangana/Suryapet/a.txt
+	*	1720242282	0
+	"	1	29
+	^	1	30
+	.	1	29
+	+	1	29
 
 > ~/script.sh
 	*	1720241073	0
